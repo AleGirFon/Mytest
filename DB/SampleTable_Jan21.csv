@@ -1,0 +1,310 @@
+SRA_Experiment,SRR_ID,SRX_ID,Platform,Organism,Sample,Sample_Num,Phase,Strain,Stage,Tissue,sex
+SRP092062,SRR4450254,SRX2268331,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_96h_1,Vegetative,Cam1xCam2,96h,Whole sporeling,
+SRP092062,SRR4450255,SRX2268332,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_96h_2,Vegetative,Cam1xCam2,96h,Whole sporeling,
+SRP092062,SRR4450256,SRX2268333,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_96h_3,Vegetative,Cam1xCam2,96h,Whole sporeling,
+SRP092062,SRR4450257,SRX2268334,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_72h_1,Vegetative,Cam1xCam2,72h,Whole sporeling,
+SRP092062,SRR4450258,SRX2268335,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_72h_2,Vegetative,Cam1xCam2,72h,Whole sporeling,
+SRP092062,SRR4450259,SRX2268336,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_24h_1,Vegetative,Cam1xCam2,24h,Whole sporeling,
+SRP092062,SRR4450260,SRX2268337,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_0h_1,Vegetative,Cam1xCam2,0h,Whole sporeling,
+SRP092062,SRR4450261,SRX2268338,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_0h_2,Vegetative,Cam1xCam2,0h,Whole sporeling,
+SRP092062,SRR4450262,SRX2268339,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_0h_3,Vegetative,Cam1xCam2,0h,Whole sporeling,
+SRP092062,SRR4450263,SRX2268340,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_48h_1,Vegetative,Cam1xCam2,48h,Whole sporeling,
+SRP092062,SRR4450264,SRX2268341,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_48h_2,Vegetative,Cam1xCam2,48h,Whole sporeling,
+SRP092062,SRR4450265,SRX2268342,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_24h_2,Vegetative,Cam1xCam2,24h,Whole sporeling,
+SRP092062,SRR4450266,SRX2268343,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_24h_3,Vegetative,Cam1xCam2,24h,Whole sporeling,
+SRP092062,SRR4450267,SRX2268344,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_72h_3,Vegetative,Cam1xCam2,72h,Whole sporeling,
+SRP092062,SRR4450268,SRX2268345,ILLUMINA,M.Polymorpha,WT,Whole_Sporeling_48h_3,Vegetative,Cam1xCam2,48h,Whole sporeling,
+SRP132434,SRR6685777,SRX3661975,ILLUMINA,M.Polymorpha,Mpmir160,Mpmir160-4,Vegetative,Australian Melbourne,1month,whole thallus,
+SRP132434,SRR6685778,SRX3661974,ILLUMINA,M.Polymorpha,Mparf3,Mparf3-12,Vegetative,Australian Melbourne,1month,whole thallus,
+SRP132434,SRR6685779,SRX3661973,ILLUMINA,M.Polymorpha,Mparf3,Mparf3-22,Vegetative,Australian Melbourne,1month,whole thallus,
+SRP132434,SRR6685780,SRX3661972,ILLUMINA,M.Polymorpha,Mpmir160,Mpmir160-2,Vegetative,Australian Melbourne,1month,whole thallus,
+SRP132434,SRR6685781,SRX3661971,ILLUMINA,M.Polymorpha,Mpmir160,Mpmir160-3,Vegetative,Australian Melbourne,1month,whole thallus,
+SRP132434,SRR6685782,SRX3661970,ILLUMINA,M.Polymorpha,WT,Wt_1,Vegetative,Australian Melbourne,1month,whole thallus,
+SRP132434,SRR6685783,SRX3661969,ILLUMINA,M.Polymorpha,WT,Wt_2,Vegetative,Australian Melbourne,1month,whole thallus,
+SRP132434,SRR6685784,SRX3661968,ILLUMINA,M.Polymorpha,WT,Wt_3,Vegetative,Australian Melbourne,1month,whole thallus,
+SRP132434,SRR6685785,SRX3661967,ILLUMINA,M.Polymorpha,Mparf3,Wt_4,Vegetative,Australian Melbourne,1month,whole thallus,
+SRP115544,SRR8068336,SRX4896652,ILLUMINA,M.Polymorpha,Plants infected with P.palmivora (ARI),MP_PP_ARI_2dpi_rep3,Vegetative,Tak-1,2dpi,thallus,
+SRP115544,SRR8068339,SRX4896649,ILLUMINA,M.Polymorpha,Plants infected with P.palmivora (ARI),MP_PP_ARI_1dpi_rep3,Vegetative,Tak-1,1dpi,thallus,
+SRP115544,SRR8068335,SRX4896653,ILLUMINA,M.Polymorpha,Plants infected with P.palmivora (ARI),MP_PP_ARI_2dpi_rep2,Vegetative,Tak-1,2dpi,thallus,
+SRP115544,SRR7977545,SRX4810338,ILLUMINA,M.Polymorpha,Mock,M1B,Vegetative,Tak-1,1dpi,thallus,
+SRP115544,SRR7977546,SRX4810337,ILLUMINA,M.Polymorpha,Mock,M1A,Vegetative,Tak-1,1dpi,thallus,
+SRP115544,SRR7977547,SRX4810336,ILLUMINA,M.Polymorpha,Mock,M2A,Vegetative,Tak-1,2dpi,thallus,
+SRP115544,SRR7977548,SRX4810335,ILLUMINA,M.Polymorpha,Mock,M1C,Vegetative,Tak-1,1dpi,thallus,
+SRP115544,SRR7977549,SRX4810334,ILLUMINA,M.Polymorpha,Mock,M2C,Vegetative,Tak-1,2dpi,thallus,
+SRP115544,SRR7977550,SRX4810333,ILLUMINA,M.Polymorpha,Mock,M2B,Vegetative,Tak-1,2dpi,thallus,
+SRP115544,SRR7977552,SRX4810331,ILLUMINA,M.Polymorpha,Mock,M3A,Vegetative,Tak-1,3dpi,thallus,
+SRP115544,SRR7977553,SRX4810330,ILLUMINA,M.Polymorpha,Mock,M4A,Vegetative,Tak-1,4dpi,thallus,
+SRP115544,SRR7977554,SRX4810329,ILLUMINA,M.Polymorpha,Mock,M3C,Vegetative,Tak-1,3dpi,thallus,
+SRP115544,SRR7977555,SRX4810328,ILLUMINA,M.Polymorpha,Mock,M4C,Vegetative,Tak-1,4dpi,thallus,
+SRP115544,SRR7977556,SRX4810327,ILLUMINA,M.Polymorpha,Mock,M4B,Vegetative,Tak-1,4dpi,thallus,
+SRP115544,SRR8068337,SRX4896651,ILLUMINA,M.Polymorpha,Plants infected with P.palmivora (ARI),MP_PP_ARI_1dpi_rep1,Vegetative,Tak-1,1dpi,thallus,
+SRP115544,SRR8068340,SRX4896648,ILLUMINA,M.Polymorpha,Plants infected with P.palmivora (ARI),MP_PP_ARI_2dpi_rep1,Vegetative,Tak-1,2dpi,thallus,
+SRP114937,SRR5905091,SRX3066660,ILLUMINA,M.Polymorpha,"2\,4-D Auxin",Mp-24D-2,Vegetative,Tak-1,10 day old,Whole plant,
+SRP114937,SRR5905092,SRX3066659,ILLUMINA,M.Polymorpha,"2\,4-D Auxin",Mp-24D-1,Vegetative,Tak-1,10 day old,Whole plant,
+SRP114937,SRR5905097,SRX3066654,ILLUMINA,M.Polymorpha,"2\,4-D Auxin",Mp-24D-3,Vegetative,Tak-1,10 day old,Whole plant,
+SRP114937,SRR5905098,SRX3066653,ILLUMINA,M.Polymorpha,Mock,Mp-mock-2,Vegetative,Tak-1,10 day old,Whole plant,
+SRP114937,SRR5905099,SRX3066652,ILLUMINA,M.Polymorpha,Mock,Mp-mock-3,Vegetative,Tak-1,10 day old,Whole plant,
+SRP114937,SRR5905100,SRX3066651,ILLUMINA,M.Polymorpha,Mock,Mp-mock-4,Vegetative,Tak-1,10 day old,Whole plant,
+DRP004273,DRR096423,DRX089919,ILLUMINA,M.Polymorpha,MpPAP1OX,MpPAP1OX-1,Vegetative,Tak-1,6 week old,thallus,male
+DRP004273,DRR096424,DRX089920,ILLUMINA,M.Polymorpha,MpPAP1OX,MpPAP1OX-2,Vegetative,Tak-1,6 week old,thallus,male
+DRP004273,DRR096425,DRX089921,ILLUMINA,M.Polymorpha,MpPAP1OX,MpPAP1OX-3,Vegetative,Tak-1,6 week old,thallus,male
+DRP004273,DRR096426,DRX089922,ILLUMINA,M.Polymorpha,MpPAP2OX,MpPAP2OX-1,Vegetative,Tak-1,6 week old,thallus,male
+DRP004273,DRR096427,DRX089923,ILLUMINA,M.Polymorpha,MpPAP2OX,MpPAP2OX-2,Vegetative,Tak-1,6 week old,thallus,male
+DRP004273,DRR096428,DRX089924,ILLUMINA,M.Polymorpha,MpPAP2OX,MpPAP2OX-3,Vegetative,Tak-1,6 week old,thallus,male
+DRP004273,DRR096429,DRX089925,ILLUMINA,M.Polymorpha,WT,Wt_1,Vegetative,Tak-1,6 week old,thallus,male
+DRP004273,DRR096430,DRX089926,ILLUMINA,M.Polymorpha,WT,Wt_2,Vegetative,Tak-1,6 week old,thallus,male
+DRP004273,DRR096431,DRX089927,ILLUMINA,M.Polymorpha,WT,Wt_3,Vegetative,Tak-1,6 week old,thallus,male
+SRP159235,SRR7772755,SRX4628137,ILLUMINA,M.Polymorpha,WT,Wt_4,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772756,SRX4628137,ILLUMINA,M.Polymorpha,WT,Wt_5,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772757,SRX4628137,ILLUMINA,M.Polymorpha,WT,Wt_6,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772758,SRX4628137,ILLUMINA,M.Polymorpha,WT,Wt_7,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772759,SRX4628138,ILLUMINA,M.Polymorpha,WT,Wt_8,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772760,SRX4628138,ILLUMINA,M.Polymorpha,WT,Wt_9,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772761,SRX4628138,ILLUMINA,M.Polymorpha,WT,Wt_10,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772762,SRX4628138,ILLUMINA,M.Polymorpha,WT,Wt_11,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772763,SRX4628139,ILLUMINA,M.Polymorpha,WT,Wt_12,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772765,SRX4628139,ILLUMINA,M.Polymorpha,WT,Wt_13,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772766,SRX4628139,ILLUMINA,M.Polymorpha,WT,Wt_14,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772767,SRX4628140,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_1,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772768,SRX4628140,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_2,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772769,SRX4628140,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_3,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772770,SRX4628140,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_4,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772771,SRX4628141,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_5,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772772,SRX4628141,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_6,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772773,SRX4628141,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_7,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772774,SRX4628141,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_8,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772775,SRX4628142,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_9,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772776,SRX4628142,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_10,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772777,SRX4628142,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_11,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772778,SRX4628142,ILLUMINA,M.Polymorpha,MpGL3ox#2,MpGL3ox#2_12,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772779,SRX4628143,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_1,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772780,SRX4628143,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_2,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772781,SRX4628143,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_3,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772782,SRX4628143,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_4,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772783,SRX4628144,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_5,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772784,SRX4628144,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_6,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772786,SRX4628144,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_7,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772787,SRX4628145,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_8,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772788,SRX4628145,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_9,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772789,SRX4628145,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_10,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772790,SRX4628145,ILLUMINA,M.Polymorpha,MpGL3ox#3,MpGL3ox#3_11,Vegetative,Tak-1,3 week old,thallus,
+SRP213088,SRR9645185,SRX6407009,ILLUMINA,M.Polymorpha,wild type 5m_thallus,wild type 5m_thallus,Vegetative,BoGa,22 days,thallus_male,
+SRP213088,SRR9645187,SRX6407007,ILLUMINA,M.Polymorpha,wild type 1f_archegoniophore,wild type 1f_archegoniophore,Sexual,BoGa,not applicable,archegoniophore,
+SRP213088,SRR9645188,SRX6407006,ILLUMINA,M.Polymorpha,wild type 6f_thallus,wild type 6f_thallus,Vegetative,BoGa,22 days,thallus_female,
+SRP213088,SRR9645189,SRX6407005,ILLUMINA,M.Polymorpha,Mptcp1-1ge_thallus,Mptcp1-1ge_thallus,Vegetative,BoGa,22 days,thallus,
+SRP213088,SRR9645190,SRX6407004,ILLUMINA,M.Polymorpha,Mptcp1-2ge_thallus,Mptcp1-2ge_thallus,Vegetative,BoGa,22 days,thallus,
+SRP213088,SRR9645191,SRX6407003,ILLUMINA,M.Polymorpha,Mptcp1-3ge_thallus,Mptcp1-3ge_thallus,Vegetative,BoGa,22 days,thallus,
+SRP213088,SRR9645192,SRX6407002,ILLUMINA,M.Polymorpha,wild type 4m_thallus,wild type 4m_thallus,Vegetative,BoGa,22 days,thallus_male,
+SRP213088,SRR9645193,SRX6407001,ILLUMINA,M.Polymorpha,wild type 4f_archegoniophore,wild type 4f_archegoniophore,Sexual,BoGa,not applicable,archegoniophore,
+SRP213088,SRR9645194,SRX6407000,ILLUMINA,M.Polymorpha,wild type 6f_archegoniophore,wild type 6f_archegoniophore,Sexual,BoGa,not applicable,archegoniophore,
+SRP213088,SRR9645196,SRX6406998,ILLUMINA,M.Polymorpha,Mptcp1-2ge_archegoniophore,Mptcp1-2ge_archegoniophore,Sexual,BoGa,not applicable,archegoniophore,
+SRP214511,SRR9678053,SRX6438361,ILLUMINA,M.Polymorpha,arf1,arf1_3,Vegetative,Tak-1,1 day,Developing gemma,
+SRP214511,SRR9678054,SRX6438360,ILLUMINA,M.Polymorpha,arf3,arf3_1,Vegetative,Tak-1,1 day,Developing gemma,
+SRP214511,SRR9678055,SRX6438359,ILLUMINA,M.Polymorpha,arf1,arf1_1,Vegetative,Tak-1,1 day,Developing gemma,
+SRP214511,SRR9678056,SRX6438358,ILLUMINA,M.Polymorpha,arf1,arf1_2,Vegetative,Tak-1,1 day,Developing gemma,
+SRP214511,SRR9678057,SRX6438357,ILLUMINA,M.Polymorpha,WT,Control_1,Vegetative,Tak-1,1 day,Developing gemma,
+SRP214511,SRR9678058,SRX6438356,ILLUMINA,M.Polymorpha,WT,Control_2,Vegetative,Tak-1,1 day,Developing gemma,
+SRP214511,SRR9678059,SRX6438355,ILLUMINA,M.Polymorpha,arf3,arf3_2,Vegetative,Tak-1,1 day,Developing gemma,
+SRP214511,SRR9678060,SRX6438354,ILLUMINA,M.Polymorpha,arf3,arf3_3,Vegetative,Tak-1,1 day,Developing gemma,
+SRP214511,SRR9678061,SRX6438353,ILLUMINA,M.Polymorpha,WT,Control_3,Vegetative,Tak-1,1 day,Developing gemma,
+DRP005185,DRR096278,DRX089774,ILLUMINA,M.Polymorpha,WT,gemmacup-1,Vegetative,Tak-1,3 week old,gemma cup,male
+DRP005185,DRR096279,DRX089775,ILLUMINA,M.Polymorpha,WT,gemmacup-2,Vegetative,Tak-1,3 week old,gemma cup,male
+DRP005185,DRR096280,DRX089776,ILLUMINA,M.Polymorpha,WT,gemmacup-3,Vegetative,Tak-1,3 week old,gemma cup,male
+DRP005185,DRR096281,DRX089777,ILLUMINA,M.Polymorpha,WT,midrib-1,Vegetative,Tak-1,3 week old,mid rib,male
+DRP005185,DRR096282,DRX089778,ILLUMINA,M.Polymorpha,WT,midrib-2,Vegetative,Tak-1,3 week old,mid rib,male
+DRP005185,DRR096283,DRX089779,ILLUMINA,M.Polymorpha,WT,midrib-3,Vegetative,Tak-1,3 week old,mid rib,male
+DRP005185,DRR096284,DRX089780,ILLUMINA,M.Polymorpha,WT,thallus-1,Vegetative,Tak-1,1 week old,thallus,male
+DRP005185,DRR096285,DRX089781,ILLUMINA,M.Polymorpha,WT,thallus-2,Vegetative,Tak-1,1 week old,thallus,male
+DRP005185,DRR096286,DRX089782,ILLUMINA,M.Polymorpha,WT,thallus-3,Vegetative,Tak-1,1 week old,thallus,male
+SRP069753,SRR3168960,SRX1564687,ILLUMINA,M.Polymorpha,Mp_totRNA_HP_GM,Mp_totRNA_HP_GM,Vegetative,Tak1-Tak2,1 month,whole gametophyte,pooled male and female
+SRP189151,SRR8769567,SRX5559705,BGISEQ,M.Polymorpha,TMO5,TMO5_GR1,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769569,SRX5559703,BGISEQ,M.Polymorpha,TMO5,TMO5_GR3,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769573,SRX5559699,BGISEQ,M.Polymorpha,dGR1,dGR1,Vegetative,Tak-1,10 days,Gemma,
+DRP004405,DRR130762,DRX123500,ILLUMINA,M.Polymorpha,Mock,T1_thl_m,Vegetative,Tak-1,,thallus,male
+DRP004405,DRR130763,DRX123501,ILLUMINA,M.Polymorpha,WT,T1_cup,Vegetative,Tak-1,,cupule base,male
+DRP004405,DRR130764,DRX123502,ILLUMINA,M.Polymorpha,WT,T1_geml,Vegetative,Tak-1,24h,Gemma,male
+DRP004405,DRR130765,DRX123503,ILLUMINA,M.Polymorpha,WT,T1_thl,Vegetative,Tak-1,7 days,thallus,male
+DRP004405,DRR130766,DRX123504,ILLUMINA,M.Polymorpha,WT,T1_-m,Vegetative,Tak-1,,thallus,male
+DRP004405,DRR130767,DRX123505,ILLUMINA,M.Polymorpha,WT,BC4_archp,Sexual,BC4,not applicable,archegoniophore,female
+DRP004405,DRR130768,DRX123506,ILLUMINA,M.Polymorpha,WT,T2_arch,Sexual,Tak-2,not applicable,archegonium,female
+SRP254639,SRR11452622,SRX8030381,ILLUMINA,M.Polymorpha,pEF1:XVE>>amiR-MpE(z),pEF1:XVE>>amiR-MpE(z)_1,Vegetative,,,whole plant,
+SRP254639,SRR11452623,SRX8030382,ILLUMINA,M.Polymorpha,pEF1:XVE>>amiR-MpE(z),pEF1:XVE>>amiR-MpE(z)_2,Vegetative,,,whole plant,
+SRP254639,SRR11452624,SRX8030383,ILLUMINA,M.Polymorpha,pEF1:XVE>>amiR-MpE(z),pEF1:XVE>>amiR-MpE(z)_3,Vegetative,,,whole plant,
+SRP254639,SRR11452625,SRX8030384,ILLUMINA,M.Polymorpha,pEF1:XVE>>amiR-MpE(z),pEF1:XVE>>amiR-MpE(z)_4,Vegetative,,,whole plant,
+SRP254639,SRR11452626,SRX8030385,ILLUMINA,M.Polymorpha,pEF1:XVE>>amiR-MpE(z),pEF1:XVE>>amiR-MpE(z)_5,Vegetative,,,whole plant,
+SRP254639,SRR11452627,SRX8030386,ILLUMINA,M.Polymorpha,pEF1:XVE>>amiR-MpE(z),pEF1:XVE>>amiR-MpE(z)_6,Vegetative,,,whole plant,
+SRP254378,SRR11440499,SRX8018564,ILLUMINA,M.Polymorpha,Mpc1hdz-2ge,Mpc1hdz-2ge Non-axenic rep3,Vegetative,Australian Melbourne,3 week old,whole thallus,female
+SRP254378,SRR11440500,SRX8018563,ILLUMINA,M.Polymorpha,Mpc1hdz-2ge,Mpc1hdz-2ge Non-axenic rep2,Vegetative,Australian Melbourne,3 week old,whole thallus,female
+SRP254378,SRR11440501,SRX8018562,ILLUMINA,M.Polymorpha,Mpc1hdz-2ge,Mpc1hdz-2ge Non-axenic rep1,Vegetative,Australian Melbourne,3 week old,whole thallus,female
+SRP254378,SRR11440502,SRX8018561,ILLUMINA,M.Polymorpha,WT,WT-female Non-axenic rep3,Vegetative,Australian Melbourne,3 week old,whole thallus,female
+SRP254378,SRR11440503,SRX8018560,ILLUMINA,M.Polymorpha,WT,WT-female Non-axenic rep2,Vegetative,Australian Melbourne,3 week old,whole thallus,female
+SRP254378,SRR11440504,SRX8018559,ILLUMINA,M.Polymorpha,WT,WT-female Non-axenic rep1,Vegetative,Australian Melbourne,3 week old,whole thallus,female
+SRP254378,SRR11440505,SRX8018558,ILLUMINA,M.Polymorpha,Mpc1hdz-2ge CTRL,Mpc1hdz-2ge CTRL,Vegetative,Australian Melbourne,3 week old,whole thallus,female
+SRP254378,SRR11440506,SRX8018557,ILLUMINA,M.Polymorpha,Mpc1hdz-1ge CTRL,Mpc1hdz-1ge CTRL,Vegetative,Australian Melbourne,3 week old,whole thallus,male
+SRP254378,SRR11440507,SRX8018556,ILLUMINA,M.Polymorpha,WT,WT-female CTRL,Vegetative,Australian Melbourne,3 week old,whole thallus,female
+SRP254378,SRR11440508,SRX8018555,ILLUMINA,M.Polymorpha,WT,WT-male CTRL,Vegetative,Australian Melbourne,3 week old,whole thallus,male
+DRP005665,DRR186538,DRX177010,ILLUMINA,M.Polymorpha,WT,Tak-1_plus_suc_cW10d_1,Vegetative,Tak-1,10 days,,male
+DRP005665,DRR186539,DRX177011,ILLUMINA,M.Polymorpha,WT,Tak-1_plus_suc_cW10d_2,Vegetative,Tak-1,10 days,,male
+DRP005665,DRR186540,DRX177012,ILLUMINA,M.Polymorpha,WT,Tak-1_plus_suc_cW10d_3,Vegetative,Tak-1,10 days,,male
+DRP005665,DRR186541,DRX177013,ILLUMINA,M.Polymorpha,WT,BC3-38_plus_suc_cW10d_1,Vegetative,BC3-38,10 days,,female
+DRP005665,DRR186542,DRX177014,ILLUMINA,M.Polymorpha,WT,BC3-38_plus_suc_cW10d_2,Vegetative,BC3-38,10 days,,female
+DRP005665,DRR186543,DRX177015,ILLUMINA,M.Polymorpha,WT,BC3-38_plus_suc_cW10d_3,Vegetative,BC3-38,10 days,,female
+DRP004609,DRR093991,DRX087487,ILLUMINA,M.Polymorpha,Sample1,Sample1,,,,,
+DRP004609,DRR093992,DRX087488,ILLUMINA,M.Polymorpha,Sample2,Sample2,,,,,
+DRP004609,DRR093993,DRX087489,ILLUMINA,M.Polymorpha,Sample3,Sample3,,,,,
+DRP004609,DRR093994,DRX087490,ILLUMINA,M.Polymorpha,Sample4,Sample4,,,,,
+DRP004609,DRR093995,DRX087491,ILLUMINA,M.Polymorpha,Sample5,Sample5,,,,,
+DRP004609,DRR093996,DRX087492,ILLUMINA,M.Polymorpha,Sample6,Sample6,,,,,
+DRP004609,DRR093997,DRX087493,ILLUMINA,M.Polymorpha,Sample7,Sample7,,,,,
+DRP004609,DRR093998,DRX087494,ILLUMINA,M.Polymorpha,Sample8,Sample8,,,,,
+DRP004609,DRR093999,DRX087495,ILLUMINA,M.Polymorpha,Sample9,Sample9,,,,,
+DRP004609,DRR094000,DRX087496,ILLUMINA,M.Polymorpha,Sample10,Sample10,,,,,
+DRP004609,DRR094001,DRX087497,ILLUMINA,M.Polymorpha,Sample11,Sample11,,,,,
+DRP004609,DRR094002,DRX087498,ILLUMINA,M.Polymorpha,Sample12,Sample12,,,,,
+DRP004609,DRR094003,DRX087499,ILLUMINA,M.Polymorpha,Sample13,Sample13,,,,,
+DRP004609,DRR094004,DRX087500,ILLUMINA,M.Polymorpha,Sample14,Sample14,,,,,
+DRP004609,DRR094005,DRX087501,ILLUMINA,M.Polymorpha,Sample15,Sample15,,,,,
+DRP004609,DRR094006,DRX087502,ILLUMINA,M.Polymorpha,Sample16,Sample16,,,,,
+DRP004609,DRR094007,DRX087503,ILLUMINA,M.Polymorpha,Sample17,Sample17,,,,,
+DRP004609,DRR094008,DRX087504,ILLUMINA,M.Polymorpha,Sample18,Sample18,,,,,
+DRP003274,DRR050343,DRX045349,ILLUMINA,M.Polymorpha,WT,0001_thallus1,Vegetative,,,thallus,
+DRP003274,DRR050344,DRX045350,ILLUMINA,M.Polymorpha,WT,0002_thallus2,Vegetative,,,thallus,
+DRP003274,DRR050345,DRX045351,ILLUMINA,M.Polymorpha,WT,0003_thallus3,Vegetative,,,thallus,
+DRP003274,DRR050346,DRX045352,ILLUMINA,M.Polymorpha,WT,0004_antheridiophore1,Sexual,,not applicable,antheridiophore,male
+DRP003274,DRR050347,DRX045353,ILLUMINA,M.Polymorpha,WT,0005_antheridiophore2,Sexual,,not applicable,antheridiophore,male
+DRP003274,DRR050348,DRX045354,ILLUMINA,M.Polymorpha,WT,0006_antheridiophore3,Sexual,,not applicable,antheridiophore,male
+DRP003274,DRR050349,DRX045355,ILLUMINA,M.Polymorpha,WT,0007_antheridium1,Sexual,,not applicable,antheridium,male
+DRP003274,DRR050350,DRX045356,ILLUMINA,M.Polymorpha,WT,0008_antheridium2,Sexual,,not applicable,antheridium,male
+DRP003274,DRR050351,DRX045357,ILLUMINA,M.Polymorpha,WT,0009_archegoniophore1,Sexual,,not applicable,archegoniophore,female
+DRP003274,DRR050352,DRX045358,ILLUMINA,M.Polymorpha,WT,0010_archegoniophore2,Sexual,,not applicable,archegoniophore,female
+DRP003274,DRR050353,DRX045359,ILLUMINA,M.Polymorpha,WT,0011_archegoniophore3,Sexual,,not applicable,archegoniophore,female
+SRP049386,SRR1553276,SRX682793,ILLUMINA,M.Polymorpha,Whole plant,,Vegetative,BC3 X Tak-1,9 days old,Whole plant,
+SRP049386,SRR1553294,SRX682811,ILLUMINA,M.Polymorpha,gametophytic apical cell,,Vegetative,BC3 x Tak-1,9 days old,gametophytic apical cell,
+SRP049386,SRR1553295,SRX682813,ILLUMINA,M.Polymorpha,gametophytic apical cell,,Vegetative,BC3 x Tak-1,missing,gametophytic apical cell,
+SRP049386,SRR1553296,SRX682814,ILLUMINA,M.Polymorpha,gametophytic apical cell,,Vegetative,BC3 x Tak-1,9 days old,gametophytic apical cell,
+SRP049386,SRR1553297,SRX682815,ILLUMINA,M.Polymorpha,young sporophyte,,Sexual,BC3 x Tak-1,13 days after fertilization,young sporophyte,
+SRP049386,SRR1553298,SRX682816,ILLUMINA,M.Polymorpha,young sporophyte,,Sexual,BC3 x Tak-1,13 days after fertilization,young sporophyte,
+SRP074621,SRR3490071,SRX1751826,ILLUMINA,M.Polymorpha,"Aseptically grown rhizoids\, thalloid\, gemmae",,,Not applicable,0-12 months,"Aseptically grown rhizoids\, thalloid\, gemmae",male
+SRP062721,SRR2179938,SRX1162676,ILLUMINA,M.Polymorpha,WT,Thallus_1,Vegetative,Tak-1,14 days,thallus,
+ERP004258,ERR364416,ERX337185,ILLUMINA,M.Polymorpha,,,,,,clean thalli without gemmules,
+SRP049386,SRR1552617,SRX682160,ILLUMINA,M.Polymorpha,WT,TH_1,Vegetative,BC3xTak-1,9 days old,Whole thallus,
+SRP049386,SRR1553299,SRX682817,ILLUMINA,M.Polymorpha,WT,SPHy_1,Sexual,BC3 x Tak-1,13 days after fertilization,young sporophyte,
+SRP029610,SRR971243,SRX346272,ILLUMINA,M.Polymorpha,Vegetative Male Thallus,,Vegetative,,,Thallus,male
+SRP029610,SRR971244,SRX346274,ILLUMINA,M.Polymorpha,Vegetative Thallus Female,,,,Vegetative Thallus Female,Thallus,female
+SRP029610,SRR971245,SRX346275,ILLUMINA,M.Polymorpha,Immature reproductive male,,,,Immature Reproductive Male,,male
+SRP029610,SRR971246,SRX346276,ILLUMINA,M.Polymorpha,Immature Reproductive Female,,,,Immature Reproductive Female,,female
+SRP029610,SRR971248,SRX346277,ILLUMINA,M.Polymorpha,Mature Reproductive Male,,,,Immature Reproductive Female,,male
+SRP029610,SRR971249,SRX346278,ILLUMINA,M.Polymorpha,Mature Reproductive Female,,,,Mature Reproductive Male,,female
+SRP035611,SRR1140967,SRX447355,ILLUMINA,M.Polymorpha,NG-5581_Mar_sequence,RNA-seq-SMART_1,Vegetative,Tak-1,adult,whole plant,
+SRP035611,SRR1140968,SRX447847,ILLUMINA,M.Polymorpha,NG-5581_Mar_sequence,RNA-seq-SMART_2,Vegetative,Tak-1,adult,whole plant,
+SRP035611,SRR1140969,SRX447848,ILLUMINA,M.Polymorpha,NG-5581_Mar_sequence,RNA-seq-SMART_3,Vegetative,Tak-1,adult,whole plant,
+SRP035611,SRR1140992,SRX447849,ILLUMINA,M.Polymorpha,NG-5581_Mar_sequence,RNA-seq-SMART_4,Vegetative,Tak-1,adult,whole plant,
+SRP035611,SRR1140993,SRX447850,ILLUMINA,M.Polymorpha,NG-5581_Mar_sequence,RNA-seq-SMART_5,Vegetative,Tak-1,adult,whole plant,
+DRP003330,DRR042261,DRX037895,ILLUMINA,M.Polymorpha,"Small RNAs expressed in a liverwort\, Marchantia polymorpha\, were profiled by small RNA sequencing with Illumina system. Three biological samples were used\, mature thalli\, male antheridial heads\, and female arechegonial heads.",0001_thalli,Vegetative,Tak-1,,thallus,
+DRP003330,DRR042262,DRX037896,ILLUMINA,M.Polymorpha,"Small RNAs expressed in a liverwort\, Marchantia polymorpha\, were profiled by small RNA sequencing with Illumina system. Three biological samples were used\, mature thalli\, male antheridial heads\, and female arechegonial heads.",0002_antheridial,Sexual,Tak-1,,antheridia,
+DRP003330,DRR042263,DRX037897,ILLUMINA,M.Polymorpha,"Small RNAs expressed in a liverwort\, Marchantia polymorpha\, were profiled by small RNA sequencing with Illumina system. Three biological samples were used\, mature thalli\, male antheridial heads\, and female arechegonial heads.",0003_archegonial,Sexual,Tak-2,,archegonium,
+DRP003976,DRR118943,DRX111952,ILLUMINA,M.Polymorpha,WT,BC3-38_gemmalings_1,Vegetative,BC3-38,7 days,gemmaling,
+DRP003976,DRR118944,DRX111953,ILLUMINA,M.Polymorpha,WT,BC3-38_gemmalings_2,Vegetative,BC3-38,7 days,gemmaling,
+DRP003976,DRR118945,DRX111954,ILLUMINA,M.Polymorpha,WT,BC3-38_gemmalings_3,Vegetative,BC3-38,7 days,gemmaling,
+DRP003976,DRR118946,DRX111955,ILLUMINA,M.Polymorpha,hpt2040,hpt2040_female_gemmalings_1,Vegetative,hpt2040_BC3-38_F1,,gemmaling,female
+DRP003976,DRR118947,DRX111956,ILLUMINA,M.Polymorpha,hpt2040,hpt2040_female_gemmalings_2,Vegetative,hpt2040_BC3-38_F1,,gemmaling,female
+DRP003976,DRR118948,DRX111957,ILLUMINA,M.Polymorpha,hpt2040,hpt2040_female_gemmalings_3,Vegetative,hpt2040_BC3-38_F1,,gemmaling,female
+DRP003976,DRR118949,DRX111958,ILLUMINA,M.Polymorpha,WT,Tak-1_gemmalings_1,Vegetative,Tak-1,,gemmaling,
+DRP003976,DRR118950,DRX111959,ILLUMINA,M.Polymorpha,WT,Tak-1_gemmalings_2,Vegetative,Tak-1,,gemmaling,
+DRP003976,DRR118951,DRX111960,ILLUMINA,M.Polymorpha,WT,Tak-1_gemmalings_3,Vegetative,Tak-1,,gemmaling,
+DRP003976,DRR118952,DRX111961,ILLUMINA,M.Polymorpha,hpt2040,hpt2040_male_gemmalings_1,Vegetative,hpt2040,,gemmaling,male
+DRP003976,DRR118953,DRX111962,ILLUMINA,M.Polymorpha,hpt2040,hpt2040_male_gemmalings_2,Vegetative,hpt2040,,gemmaling,male
+DRP003976,DRR118954,DRX111963,ILLUMINA,M.Polymorpha,hpt2040,hpt2040_male_gemmalings_3,Vegetative,hpt2040,,gemmaling,male
+DRP005844,DRR127460,DRX120204,ILLUMINA,M.Polymorpha,WT,TAK1_control_1,,Tak-1,,,
+DRP005844,DRR127461,DRX120205,ILLUMINA,M.Polymorpha,WT,TAK1_control_2,,Tak-1,,,
+DRP005844,DRR127462,DRX120206,ILLUMINA,M.Polymorpha,WT,TAK1_control_3,,Tak-1,,,
+DRP005844,DRR127463,DRX120207,ILLUMINA,M.Polymorpha,WT_salinity,TAK1_salinity_1,,Tak-1,,,
+DRP005844,DRR127464,DRX120208,ILLUMINA,M.Polymorpha,WT_salinity,TAK1_salinity_2,,Tak-1,,,
+DRP005844,DRR127465,DRX120209,ILLUMINA,M.Polymorpha,WT_salinity,TAK1_salinity_3,,Tak-1,,,
+DRP005665,DRR184755,DRX175236,PACBIO_SMRT,M.Polymorpha,WT,Tak2-IsoSeq,,Tak-2,,,female
+DRP005665,DRR184756,DRX175237,PACBIO_SMRT,M.Polymorpha,WT,Tak1-IsoSeq,,Tak-1,,,male
+DRP005665,DRR184757,DRX175236,PACBIO_SMRT,M.Polymorpha,WT,Tak2-IsoSeq,,Tak-2,,,female
+DRP005665,DRR184758,DRX175237,PACBIO_SMRT,M.Polymorpha,WT,Tak1-IsoSeq,,Tak-1,,,male
+SRP115544,SRR7977551,SRX4810332,ILLUMINA,M.Polymorpha,Mock,M3B,Vegetative,Tak-1,3 dpi,thallus,
+SRP213088,SRR9645186,SRX6407008,ILLUMINA,M.Polymorpha,Mptcp1-3ge_archegoniophore,"MpTCP1 KO\, line 3",Sexual,BoGa,developing,archegoniophores,female
+SRP213088,SRR9645195,SRX6406999,ILLUMINA,M.Polymorpha,Mptcp1-1ge_archegoniophore,"MpTCP1 KO\, line 1",Sexual,BoGa,developing,archegoniophores,female
+DRP004928,DRR172356,DRX162967,ILLUMINA,M.Polymorpha,WT,20160401ikeda_Tak-1_ver1__rep1,,Tak-1_BC,,aerial parts,
+DRP004928,DRR172357,DRX162968,ILLUMINA,M.Polymorpha,WT,20160401ikeda_Tak-1_ver1__rep2,,Tak-1_BC,,aerial parts,
+DRP004928,DRR172358,DRX162969,ILLUMINA,M.Polymorpha,WT,20160401ikeda_Tak-1_ver1__rep3,,Tak-1_BC,,aerial parts,
+DRP004928,DRR172359,DRX162970,ILLUMINA,M.Polymorpha,Mpmet-3 mutant,20160401ikeda_Mpmet-3_rep1,,Tak-1_BC,,aerial parts,
+DRP004928,DRR172360,DRX162971,ILLUMINA,M.Polymorpha,Mpmet-3 mutant,20160401ikeda_Mpmet-3_rep2,,Tak-1_BC,,aerial parts,
+DRP004928,DRR172361,DRX162972,ILLUMINA,M.Polymorpha,Mpmet-3 mutant,20160401ikeda_Mpmet-3_rep3,,Tak-1_BC,,aerial parts,
+DRP004928,DRR172362,DRX162973,ILLUMINA,M.Polymorpha,WT,20160401ikeda_Tak-1_ver2__rep1,,Tak-1_BC,,aerial parts,
+DRP004928,DRR172363,DRX162974,ILLUMINA,M.Polymorpha,Mpmet-4 mutant,20160401ikeda_Mpmet-4_rep1,,Tak-1_BC,,aerial parts,
+DRP004928,DRR172364,DRX162975,ILLUMINA,M.Polymorpha,WT,20160401ikeda_Tak-1_ver2__rep2,,Tak-1_BC,,aerial parts,
+DRP004928,DRR172365,DRX162976,ILLUMINA,M.Polymorpha,Mpmet-4 mutant,20160401ikeda_Mpmet-4_rep2,,Tak-1_BC,,aerial parts,
+SRP189151,SRR8769566,SRX5559706,BGISEQ,M.Polymorpha,TMO5,TMO5_GR2,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769568,SRX5559704,BGISEQ,M.Polymorpha,LHW,LHW_GR1,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769570,SRX5559702,BGISEQ,M.Polymorpha,LHW,LHW_GR3,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769571,SRX5559701,BGISEQ,M.Polymorpha,LHW,LHW_GR2,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769572,SRX5559700,BGISEQ,M.Polymorpha,dGR,dGR2,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769574,SRX5559698,BGISEQ,M.Polymorpha,WT,Tak1_1,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769575,SRX5559697,BGISEQ,M.Polymorpha,dGR,dGR3,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769576,SRX5559696,BGISEQ,M.Polymorpha,WT,Tak1_3,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR8769577,SRX5559695,BGISEQ,M.Polymorpha,WT,Tak1_2,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350631,SRX7060352,BGISEQ,M.Polymorpha,WT,Tak_1-1,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350634,SRX7060349,BGISEQ,M.Polymorpha,lhw,lhw_3-2,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350637,SRX7060346,BGISEQ,M.Polymorpha,TMO5,tmo5_2-3,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350639,SRX7060344,BGISEQ,M.Polymorpha,WT,Tak_1-3,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350640,SRX7060343,BGISEQ,M.Polymorpha,TMO5,tmo5_2-2,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350641,SRX7060342,BGISEQ,M.Polymorpha,TMO5,tmo5_2-1,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350630,SRX7060353,BGISEQ,M.Polymorpha,WT,Tak_1-2,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350632,SRX7060351,BGISEQ,M.Polymorpha,lhw,lhw_3-4,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350633,SRX7060350,BGISEQ,M.Polymorpha,lhw,lhw_3-3,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350635,SRX7060348,BGISEQ,M.Polymorpha,lhw,lhw_3-1,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350636,SRX7060347,BGISEQ,M.Polymorpha,TMO5,tmo5_2-4,Vegetative,Tak-1,10 days,Gemma,
+SRP189151,SRR10350638,SRX7060345,BGISEQ,M.Polymorpha,WT,Tak_1-4,Vegetative,Tak-1,10 days,Gemma,
+SRP241779,SRR10879455,SRX7548547,ILLUMINA,M.Polymorpha,tcp1,RNA-seq_tcp1_KO_rep2,Vegetative,Tak-1,2-week,thallus,
+SRP241779,SRR10879457,SRX7548545,ILLUMINA,M.Polymorpha,WT,RNA-seq_WT_rep3,Vegetative,Tak-1,2-week,thallus,
+SRP241779,SRR10879454,SRX7548548,ILLUMINA,M.Polymorpha,tcp1,RNA-seq_tcp1_KO_rep3,Vegetative,Tak-1,2-week,thallus,
+SRP241779,SRR10879456,SRX7548546,ILLUMINA,M.Polymorpha,tcp1,RNA-seq_tcp1_KO_rep1,Vegetative,Tak-1,2-week,thallus,
+SRP241779,SRR10879458,SRX7548544,ILLUMINA,M.Polymorpha,WT,RNA-seq_WT_rep2,Vegetative,Tak-1,2-week,thallus,
+SRP241779,SRR10879459,SRX7548543,ILLUMINA,M.Polymorpha,WT,RNA-seq_WT_rep1,Vegetative,Tak-1,2-week,thallus,
+DRP006665,DRR196702,DRX187119,ILLUMINA,M.Polymorpha,WT,Marchantia wild-type thallus rep 1 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196703,DRX187120,ILLUMINA,M.Polymorpha,WT,Marchantia wild-type thallus rep 1 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196704,DRX187121,ILLUMINA,M.Polymorpha,WT,Marchantia wild-type thallus rep 2 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196705,DRX187122,ILLUMINA,M.Polymorpha,WT,Marchantia wild-type thallus rep 2 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196706,DRX187123,ILLUMINA,M.Polymorpha,WT,Marchantia wild-type thallus rep 3 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196707,DRX187124,ILLUMINA,M.Polymorpha,WT,Marchantia wild-type thallus rep 3 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196708,DRX187125,ILLUMINA,M.Polymorpha,Mperf13GOF,Marchantia Mperf13GOF thallus rep 1 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196709,DRX187126,ILLUMINA,M.Polymorpha,Mperf13GOF,Marchantia Mperf13GOF thallus rep 1 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196710,DRX187127,ILLUMINA,M.Polymorpha,Mperf13GOF,Marchantia Mperf13GOF thallus rep 2 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196711,DRX187128,ILLUMINA,M.Polymorpha,Mperf13GOF,Marchantia Mperf13GOF thallus rep 2 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196712,DRX187129,ILLUMINA,M.Polymorpha,Mperf13GOF,Marchantia Mperf13GOF thallus rep 3 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196713,DRX187130,ILLUMINA,M.Polymorpha,Mperf13GOF,Marchantia Mperf13GOF thallus rep 3 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196714,DRX187131,ILLUMINA,M.Polymorpha,Mperf13-1ge,Marchantia Mperf13-1ge thallus rep 1 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196715,DRX187132,ILLUMINA,M.Polymorpha,Mperf13-1ge,Marchantia Mperf13-1ge thallus rep 1 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196716,DRX187133,ILLUMINA,M.Polymorpha,Mperf13-1ge,Marchantia Mperf13-1ge thallus rep 2 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196717,DRX187134,ILLUMINA,M.Polymorpha,Mperf13-1ge,Marchantia Mperf13-1ge thallus rep 2 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196718,DRX187135,ILLUMINA,M.Polymorpha,Mperf13-1ge,Marchantia Mperf13-1ge thallus rep 3 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196719,DRX187136,ILLUMINA,M.Polymorpha,Mperf13-1ge,Marchantia Mperf13-1ge thallus rep 3 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196720,DRX187137,ILLUMINA,M.Polymorpha,Mproxy1GOF,Marchantia Mproxy1GOF thallus rep 1 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196721,DRX187138,ILLUMINA,M.Polymorpha,Mproxy1GOF,Marchantia Mproxy1GOF thallus rep 1 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196722,DRX187139,ILLUMINA,M.Polymorpha,Mproxy1GOF,Marchantia Mproxy1GOF thallus rep 2 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196723,DRX187140,ILLUMINA,M.Polymorpha,Mproxy1GOF,Marchantia Mproxy1GOF thallus rep 2 lane 2,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196724,DRX187141,ILLUMINA,M.Polymorpha,Mproxy1GOF,Marchantia Mproxy1GOF thallus rep 3 lane 1,Vegetative,Tak-1,5 days,thallus,
+DRP006665,DRR196725,DRX187142,ILLUMINA,M.Polymorpha,Mproxy1GOF,Marchantia Mproxy1GOF thallus rep 3 lane 2,Vegetative,Tak-1,5 days,thallus,
+SRP295662,SRR13192243,SRX9626610,ILLUMINA,M.Polymorpha,B-TEX_S25,B-TEX_S25,Vegetative,Cam,,thallus,
+SRP295662,SRR13192244,SRX9626609,ILLUMINA,M.Polymorpha,B_S27,B_S27,Vegetative,Cam,,thallus,
+SRP295662,SRR13192245,SRX9626608,ILLUMINA,M.Polymorpha,A-TEX_S24,A-TEX_S24,Vegetative,Cam,,thallus,
+SRP295662,SRR13192246,SRX9626607,ILLUMINA,M.Polymorpha,A_S26,A_S26,Vegetative,Cam,,thallus,
+SRP159235,SRR7772764,SRX4628139,ILLUMINA,M.Polymorpha,WT,WT,Vegetative,Tak-1,3 week old,thallus,
+SRP159235,SRR7772785,SRX4628144,ILLUMINA,M.Polymorpha,MpGL3OX,MpGL3OX,Vegetative,Tak-1,3 week old,thallus,
+SRP115544,SRR8068338,SRX4896650,ILLUMINA,M.Polymorpha,Plants infected with P.palmivora (ARI),Plants infected with P.palmivora (ARI),Vegetative,Tak-1,1dpi,thallus,
+DARIO,wtEC_1,wtEC_1_counts,,M.Polymorpha;WT,WT,EggCell_1,Sexual,Tak2BCx,Mature,EggCell,
+DARIO,wtEC_2,WtEC_2_counts,,M.Polymorpha;WT,WT,EggCell_2,Sexual,Tak2BCx,Mature,EggCell,
+DARIO,wtEC_3,WtEC_3_counts,,M.Polymorpha;WT,WT,EggCell_3,Sexual,Tak2BCx,Mature,EggCell,
+DARIO,wtEM_1,wtEM_1_counts,,M.Polymorpha;WT,WT,Sporophyte_1,Sexual,Tak2BCx,n,Sporophyte,
+DARIO,wtEM_2,WtEM_2_counts,,M.Polymorpha;WT,WT,Sporophyte_2,Sexual,Tak2BCx,n,Sporophyte,
+DARIO,wtEM_3,WtEM_3_counts,,M.Polymorpha;WT,WT,Sporophyte_3,Sexual,Tak2BCx,n,Sporophyte,
+DARIO,rkdEC_1,rkdEC_1,,M.Polymorpha;WT,rkd_mut,EggCell_mutant_1,Sexual,Tak1xTak2,Mature,EggCell,
+DARIO,rkdEC_2,rkdEC_2,,M.Polymorpha;WT,rkd_mut,EggCell_mutant_2,Sexual,Tak1xTak2,Mature,EggCell,
+DARIO,rkdEC_3,rkdEC_3,,M.Polymorpha;WT,rkd_mut,EggCell_mutant_3,Sexual,Tak1xTak2,Mature,EggCell,
+DARIO,rkdEM_1,rkdEM_1,,M.Polymorpha;WT,rkd_mut,Sporophyte_mutant_1,Sexual,Tak1xTak2,n,Sporophyte_without_fert,
+DARIO,rkdEM_2,rkdEM_2,,M.Polymorpha;WT,rkd_mut,Sporophyte_mutant_2,Sexual,Tak1xTak2,n,Sporophyte_without_fert,
+DARIO,rkdEM_3,rkdEM_3,,M.Polymorpha;WT,rkd_mut,Sporophyte_mutant_3,Sexual,Tak1xTak2,n,Sporophyte_without_fert,
