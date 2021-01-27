@@ -1,1 +1,12 @@
 This is a git repo.
+Issues to check/solve in the DataBase:
+- RAW 24-39: Mock Plants name changed
+- RAW 54-56: "Wtrep" changed to "WT" 
+- RAW 101-109: "Wtrep" changed to "WT" 
+- TODO_1: Change to a common name tissues on Gemma vs Gemaling vs Dev. Gemma and check age if missing
+- RAW 130-135: Samples don't show ecotype --> need to read paper
+- RAW 146 -152: No information on sample tissue
+- RAW 153 -180: A lot of information missing
+- RAW 189: No information
+- RAW 192-197: No information about sample tissue
+- RAW 224-227: PackBio samples
